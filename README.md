@@ -20,28 +20,28 @@ Em vez de planilhas ou formulários, basta dizer frases como “gastei 50 reais 
 ## Demonstrações
 
 ### Tela Inicial
-![Tela inicial do Finly](/attachments/vgtyY5AFmPXautLNF2Y5z.png)
+![Tela inicial do Finly](/assets/homepage.png)
 
 ### Login
-![Tela de login](/attachments/QLNzUdp2idJkvQ8uNeb8o.png)
+![Tela de login](/assets/login.png)
 
 ### Cadastro
-![Tela de cadastro](/attachments/rMhSqvWMfAyHdH68C8RuA.png)
+![Tela de cadastro](/assets/criar-conta.png)
 
 ### Chat Conversacional
-![Chat com IA](/attachments/9TxxgWEyXFkNtnogwpxQ9.png)
+![Chat com IA](/assets/chat.png)
 
 ### Metas Financeiras
-![Tela de metas](/attachments/yeoJqPGpuxWwvgsdQXrRM.png)
+![Tela de metas](/assets/metas.png)
 
 ### Relatórios Mensais
-![Relatório mensal](/attachments/Vnnt7MJ2FQgLteve4PAMd.png)
+![Relatório mensal](/assets/relatorio01.png)
 
 ### Gráfico por Categoria
-![Gráfico de categorias](/attachments/QgDdoRHysxrVQHLtcGCbT.png)
+![Gráfico de categorias](/assets/relatorio02.png)
 
 ### Ajustes
-![Tela de ajustes](/attachments/wLX8ahbFxGkgBQEbhaGFt.png)
+![Tela de ajustes](/assets/ajustes.png)
 
 ---
 
@@ -70,11 +70,6 @@ Em vez de planilhas ou formulários, basta dizer frases como “gastei 50 reais 
 - Autenticação segura com RLS
 - Dark fintech moderno com gradientes e glow
 - Copilot
-
----
-
-## Data de Criação
-**4 de maio de 2026**
 
 ---
 
